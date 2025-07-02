@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yahyamed84&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" height="35px" width="160px"/>
-</p>
 
 
 ---
@@ -52,17 +49,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"/>
   <img alt="GCP" src="https://img.shields.io/badge/GCP-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"/>
 </p>
-
-
----
-
-## 📈 GitHub Stats
-<details><summary>Click to Expand</summary>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyamed84&theme=tokyonight" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=yahyamed84&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-</details>
 
 ---
 
