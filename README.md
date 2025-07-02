@@ -1,45 +1,74 @@
-<h1 align="center">Hi, I'm Mohamed Yahya 👋</h1>
+<h1 align="center">Hi, I'm Mohamed-Yahya YAHYA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
 <p align="center">
-  <a href="#">Data</a> |
-  <a href="#">AI</a> |
-  <a href="#">Mauritania</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=12A3F4&size=25&center=true&vCenter=true&width=800&height=100&lines=Statistician+%7C+Data+Engineer+%7C+AI+Enthusiast;Applied+Economics+%7C+RAG+%7C+Django+%26+React;Driving+insights+through+data+and+intelligent+systems">
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yahyamed84&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" height="35px" width="160px"/>
+</p>
 
-### 👨‍💻 About Me
-
-- 🎓 I’m currently pursuing an **Engineering degree in Statistics and Data Engineering** at ESP Nouakchott.
-- 👨‍💻 I’m passionate about **AI**, **LegalTech**, and **RAG-based search systems**.
-- 🇲🇷 I created the first smart legal chatbot for Mauritania based on [La Gazette Officielle](https://msgg.gov.mr/ar/journal-officiel).
-- 🧠 I love solving real-world problems using data and AI.
-- 🌍 I contribute to impactful open-source projects for Mauritania’s digital development.
 
 ---
 
-### 🛠️ Skills & Tools
+## 🧐 About Me
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-**Frameworks & Tools**  
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)  
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+- 🎓 Engineering Student in **Statistics and Data Engineering** at ESP Nouakchott, currently on a **double-degree mobility program at INSEA Morocco**.
+- 📈 Specialization in **data science** and **applied economics**.
+- 🧠 Passionate about **AI**, **RAG**, **economic analysis**, and impactful tech projects.
+- 🔬 Deeply interested in leveraging **data** and **AI** to support public policy, development, and decision-making in **emerging economies**.
+- 🧰 Skilled in the **entire data lifecycle**, from collection and modeling to visualization and deployment, with a strong foundation in both **technical** and **economic** domains.
 
 ---
 
-### 🏆 Projects
+## 🛠️ My Skills
 
-- 📚 [Mauritania Legal RAG](https://github.com/yahyamed84/Mauritania-legal-RAG) – Smart legal assistant using RAG and Gazette Officielle
-- 💬 [PGIRE QR App](https://github.com/...) – Data collection app for public health initiatives
+### 💻 Programming Languages
+<p align="center"> 
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white"/>
+  <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white"/>
+  <img alt="Scala" src="https://img.shields.io/badge/Scala-%23DC322F.svg?style=plastic&logo=scala&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  <img alt="VBA" src="https://img.shields.io/badge/VBA-%2300BFFF.svg?style=plastic&logo=visualbasic&logoColor=white"/>
+</p>
+
+
+### 🔧 Frameworks & Tools
+<p align="center">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?style=plastic&logo=flask&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white"/>
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white"/>
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=plastic&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🗃️ Databases & Cloud
+<p align="center">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white"/>
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"/>
+</p>
+
 
 ---
 
-### 📫 Contact
+## 📈 GitHub Stats
+<details><summary>Click to Expand</summary>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyamed84&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=yahyamed84&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+</details>
 
-- [LinkedIn](https://www.linkedin.com/in/mdyahya84)
-- [GitHub](https://github.com/yahyamed84)
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdyahya84"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.facebook.com/share/16ajcCHuaS/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
+
